@@ -86,7 +86,7 @@ python log_analysis.py
 ## Links
 
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
-- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
+- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-ubeda-garay)
 - **Email:** guille.ubeda.garay@gmail.com
 
 ---
