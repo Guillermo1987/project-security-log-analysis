@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app)
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=for-the-badge&logo=isc2&logoColor=white)](.)
-[![SIEM](https://img.shields.io/badge/Tool-SIEM%20Simulation-000000?style=for-the-badge&logo=splunk&logoColor=white)](.)
+[![Wiki](https://img.shields.io/badge/Wiki-Documentación-ef4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mindset-code/project-security-log-analysis/wiki)
 
 ---
 
@@ -85,6 +85,7 @@ python log_analysis.py
 
 ## Links
 
+- **Wiki:** [Documentación técnica](https://github.com/mindset-code/project-security-log-analysis/wiki)
 - **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
 - **LinkedIn:** [Mindset & Code](https://www.linkedin.com/company/mindset-code)
 - **Email:** contacto@mindset-code.com
