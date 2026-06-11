@@ -38,26 +38,26 @@ def analyze_logs(log_file):
     # 4. Generate Analysis Report
     report = "# 🛡️ Análisis de Logs de Seguridad - Reporte de Incidentes\n\n"
     report += "## Resumen de Eventos\n"
-    report += f"| Evento | Conteo |\n"
-    report += f"| :--- | :--- |\n"
+    report += "| Evento | Conteo |\n"
+    report += "| :--- | :--- |\n"
     for event, count in event_counts.most_common():
         report += f"| {event} | {count} |\n"
     report += "\n"
     
-    report += f"## Detección de Amenazas\n"
+    report += "## Detección de Amenazas\n"
     report += f"**Intentos de Login Fallidos:** {failed_logins}\n"
     report += f"**Intentos de Fuerza Bruta Detectados:** {brute_force_attempts}\n\n"
     
     report += "## Top 5 IPs con Mayor Actividad\n"
-    report += f"| IP | Conteo |\n"
-    report += f"| :--- | :--- |\n"
+    report += "| IP | Conteo |\n"
+    report += "| :--- | :--- |\n"
     for ip, count in top_ips:
         report += f"| {ip} | {count} |\n"
     report += "\n"
     
     report += "## Top 5 IPs con Mayor Cantidad de Logins Fallidos\n"
-    report += f"| IP | Conteo |\n"
-    report += f"| :--- | :--- |\n"
+    report += "| IP | Conteo |\n"
+    report += "| :--- | :--- |\n"
     for ip, count in top_failed_login_ips:
         report += f"| {ip} | {count} |\n"
     report += "\n"
