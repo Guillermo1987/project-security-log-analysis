@@ -12,6 +12,10 @@
 [![ISC2 CC](https://img.shields.io/badge/Author-ISC2%20CC-0a66c2?style=for-the-badge)](.)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
+[![Log analysis running: security events by hour of day across seven days](docs/captura.jpg)](https://proyectos-mindset-code.web.app/logs)
+
+*[Open the live demo](https://proyectos-mindset-code.web.app/logs)*
+
 ---
 
 ## The problem this solves
