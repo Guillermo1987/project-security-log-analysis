@@ -17,7 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
-          cache: pip
+          # sin `cache: pip`: este repositorio no tiene requirements.txt
+          # y setup-python falla si le pides cachear sin fichero que mirar.
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
