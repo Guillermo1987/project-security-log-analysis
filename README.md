@@ -9,7 +9,7 @@
 [![Ficha del proyecto](https://img.shields.io/badge/Ficha%20del%20proyecto-mindset--code.com-2c4a6e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mindset-code.com/es/codigo)
 [![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20stdlib-3776AB?style=for-the-badge&logo=python&logoColor=white)](.)
 [![Domain](https://img.shields.io/badge/Domain-Cybersecurity%20%C2%B7%20SIEM-16a34a?style=for-the-badge)](.)
-[![ISC2 CC](https://img.shields.io/badge/Author-ISC2%20CC-0a66c2?style=for-the-badge)](.)
+[![Google Cybersecurity](https://img.shields.io/badge/Author-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](.)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 [![Log analysis running: security events by hour of day across seven days](docs/captura.jpg)](https://proyectos-mindset-code.web.app/logs)
@@ -22,7 +22,7 @@
 
 Every server generates thousands of log lines a day; an attack hides in the noise. The first job of a Security Operations Center is to **turn raw logs into signal** — counting failed logins, spotting brute-force bursts and ranking the IPs worth blocking. This project simulates that pipeline end to end, mirroring what a SIEM (Splunk, Wazuh, Sentinel) does at scale.
 
-Built by an **ISC2 Certified in Cybersecurity (CC)** holder, it demonstrates log parsing, anomaly detection and threat reporting with zero external dependencies.
+It demonstrates log parsing, anomaly detection and threat reporting with zero external dependencies — the analysis runs on the Python standard library alone.
 
 ---
 
@@ -103,7 +103,7 @@ Released under the **[MIT License](LICENSE)**.
 
 Cada servidor genera miles de líneas de log al día; un ataque se esconde en el ruido. La primera tarea de un Centro de Operaciones de Seguridad es **convertir logs en bruto en señal** — contar logins fallidos, detectar ráfagas de fuerza bruta y rankear las IPs que conviene bloquear. Este proyecto simula ese pipeline de principio a fin, reflejando lo que un SIEM (Splunk, Wazuh, Sentinel) hace a escala.
 
-Construido por un titular de **ISC2 Certified in Cybersecurity (CC)**, demuestra parsing de logs, detección de anomalías e informes de amenazas sin dependencias externas.
+Demuestra parsing de logs, detección de anomalías e informes de amenazas sin dependencias externas: el análisis corre solo con la biblioteca estándar de Python.
 
 ---
 

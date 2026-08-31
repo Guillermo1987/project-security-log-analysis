@@ -1,0 +1,3 @@
+# Este proyecto NO tiene dependencias de ejecucion: corre con la biblioteca
+# estandar de Python 3.10+. Lo de aqui abajo hace falta solo para las pruebas.
+pytest>=8,<9
